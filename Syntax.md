@@ -41,7 +41,6 @@ Values can be combined using the following operators:
 |   `>=`   | Greater than or equal to
 |   `<=`   | Less than or equal to
 |   `..`   | String concat
-<!--- |    `!`   | Not -->
 
 ## Defining Variables
 
